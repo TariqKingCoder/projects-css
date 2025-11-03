@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+this template made by tariq ahmadzai
 
-Template Name: FolioOne
-Template URL: https://bootstrapmade.com/folioone-bootstrap-portfolio-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
